@@ -2,3 +2,5 @@ tensorflow==2.10.0
 numpy
 matplotlib
 Pillow
+protobuf==3.9.2
+urllib3<2.0
