@@ -4,3 +4,4 @@ matplotlib
 Pillow
 protobuf==3.9.2
 urllib3<2.0
+protoc==3.19.0
