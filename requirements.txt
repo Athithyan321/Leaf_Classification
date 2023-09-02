@@ -2,4 +2,3 @@ tensorflow==2.10.0
 numpy
 matplotlib
 Pillow
-protoc==3.19.0
